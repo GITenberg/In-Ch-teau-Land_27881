@@ -1,0 +1,29 @@
+_repo: In-Ch-teau-Land_27881
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27881-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Wharton, Anne Hollingsworth
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '32987'
+    url: http://www.gutenberg.org/2009/agents/32987
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Hollingsworth_Wharton
+description: ''
+gutenberg_issued: '2009-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27881'
+  lccn: '11029395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Castles -- France'
+- !lcsh 'Touraine (France) -- Description and travel'
+title: In Château Land
+url: http://www.gutenberg.org/ebooks/27881
